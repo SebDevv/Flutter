@@ -48,7 +48,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.grey,
                   ),
                   title: Text(
-                    "07432 212709",
+                    "XXXXX XXXXXX",
                     style: TextStyle(
                         fontFamily: 'SourceSans',
                         fontWeight: FontWeight.bold,
@@ -65,7 +65,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.grey,
                   ),
                   title: Text(
-                    "Sebastianraine158@yahoo.co.uk",
+                    "Sebastianraine158@hotmail.com",
                     style: TextStyle(
                         color: Colors.grey,
                         fontFamily: 'SourceSans',
